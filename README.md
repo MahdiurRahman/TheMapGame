@@ -1,4 +1,4 @@
-# TheMapGame
+# The Map Game
 
 Hi,
 
